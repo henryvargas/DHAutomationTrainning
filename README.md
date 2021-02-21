@@ -1,4 +1,4 @@
-### Hi there, I'm [Henry Vargas Tanes!] 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+###Henry Vargas Tames
 
 
 <br/>
