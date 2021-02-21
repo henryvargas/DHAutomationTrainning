@@ -33,13 +33,12 @@ public class main {
         /**
          * 3. Mostrar solo los test cases que pertenescan aun solo owner
          */
-        // Filter.filterByOwner(listSuite,"Henry");
+        Filter.filterByOwner(listSuite,"Henry");
 
         /**
          * 4.Mostrar solo los test cases que sean de un tipo de prioridad
          */
-
-         //Filter.filterByPriority(listSuite,"Priority 2");
+         Filter.filterByPriority(listSuite,"Priority 2");
     }
 
 
