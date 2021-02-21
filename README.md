@@ -1,25 +1,24 @@
-###Henry Vargas Tames
+### Henry Vargas Tames
 
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
 
-### Hi 🙋‍♂️,
-### I'm 18 years old Self-taught Full-Stack developer from India.
-
-
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+### PROYECTO DE PROGRAMACION BASICA
 
 
 
+#### - Utilizar los conceptos de POO
 
-#### - 🔭 SpaceX FanBoi, 
+#### - Crear Unit Test (minimo)
 
-#### - 🛸 Into Hight Energy Physics and Astrophysics
+#### - Crear 2 Test Suites
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+#### - Crear 5 Test Cases para cada test suite con su respectivo Owner y mostrar toda la Informacion por consola
 
+#### - Mostrar solo los test cases que sean de un tipo de prioridad (filtro por prioridad)
 
+#### - Mostrar solo los test cases que pertenescan aun solo owner( filtro por owner)
 <br />
 
 
@@ -29,7 +28,7 @@
 <br />
 
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Henry Vargas Github Stats]
 
 <br />
 
@@ -44,19 +43,6 @@
 
 </p>
 
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
-
-***********************************
 
 #### Thank You-🙏🏼
 
